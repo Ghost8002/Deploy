@@ -1,0 +1,41 @@
+body{
+    background-color: #fff5e8d7;
+    font-family: sans-serif;
+    margin-left: 40px;
+}
+
+h1{
+    font-size: 35px;
+    text-align: center;
+    color: #4B5B58;
+    background-color: #c6a976;
+}
+p{
+    margin-left: 20px;
+}
+.pdoh1{
+    text-align: center;
+}
+.comlinkb {
+ 
+    color: #4B5B58;
+    font-size: 20px;
+}
+.topicos{
+    background-color: #c6a976;
+    border-bottom: 3px solid #4B5B58 ;
+}
+b{
+    font-size: 20px;
+    color: #4B5B58;
+}
+a{
+    font-weight: bold;
+    color:#4B5B58;
+    /* text-decoration: none; */
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+    color: #4B5B58;
+}
